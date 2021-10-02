@@ -1,5 +1,7 @@
 # Submission Details
 
+Deployed here: https://timer-assignment.netlify.app/
+
 In the project directory:
 
 install dependencies
