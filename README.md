@@ -1,6 +1,12 @@
 # Submission Details
 
-In the project directory, run:
+In the project directory:
+
+install dependencies
+
+### `npm i`
+
+then run
 
 ### `npm start`
 
